@@ -3,7 +3,18 @@ name: Ameya Joshi
 title: React/Frontend Developer
 location: Norman, OK
 summary: React/Frontend Developer with 5+ years of professional experience. Currently open to React and Frontend roles, with the ability to start immediately. Prefer remote/hybrid roles first, but willing to consider on-site as well. Keeping current in my skills, with a mindset of continuous learning.
-tags: [react, typescript, frontend, accessibility, testing]
+tags:
+  [
+    react,
+    typescript,
+    frontend,
+    responsive design,
+    html,
+    css,
+    javascript,
+    accessibility,
+    testing,
+  ]
 open_to: [full-time, contract, consulting]
 ---
 
@@ -25,7 +36,7 @@ Since my position at Sparq ended in October 2024, I have made a focused effort t
 - RTK Query
 - Appwrite\.io
 
-I have used these skills in my side projects as well. In addition, I am learning Node.js on Udemy and recently attended the [OKCoders Pro](https://www.techlahoma.org/ok-coders/) Python Bootcamp, which was held in November/December of 2025. For more details about my projects, learning, or my background/qualifications, please visit my [website](https://coderaj7470.github.io/portfolio/).
+I have used these skills in my side projects as well. In addition, I am learning Node.js on Udemy and recently attended the [OKCoders Pro](https://www.techlahoma.org/ok-coders/) Python Bootcamp, which was held in November/December of 2025. For more details about my projects, learning, or my background/qualifications, please visit my [website](https://coderaj7470.github.io/portfolio/). Last but not least, I have also used AI in my development workflow, mainly to assist with coding, problem-solving, and exploring implementation approaches. I still continue to write, review, and own all code myself.
 
 I am open to work and would greatly appreciate the opportunity to talk more about my background and qualifications.
 
